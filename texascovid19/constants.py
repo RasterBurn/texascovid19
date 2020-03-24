@@ -66,3 +66,7 @@ METRO_GREATER_SAN_ANTONIO = [
 POPULATION_GREATER_SAN_ANTONIO_2010 = 2_142_508
 POPULATION_GREATER_SAN_ANTONIO_2018_EST = 2_518_036
 
+
+#### OTHER STATE INFO ######
+
+NY_URL = "https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases"
