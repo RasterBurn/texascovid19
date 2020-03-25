@@ -1,7 +1,8 @@
 import os
 
 DATA_PATH = os.path.abspath("../data")
-DSHS_URL = "https://www.dshs.state.tx.us/news/updates.shtm"
+DSHS_URL = "https://txdshs.maps.arcgis.com/apps/opsdashboard/index.html#/ed483ecd702b4298ab01e8b9cafc8b83"
+DSHS_XHR_URL = "https://services5.arcgis.com/ACaLB9ifngzawspq/arcgis/rest/services/COVID19County_ViewLayer/FeatureServer/0/query?f=json&where=Count_%3C%3E0&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*&orderByFields=Count_%20desc&resultOffset=0&resultRecordCount=254&cacheHint=true"
 TIMESERIES_CSV = f"{DATA_PATH}/timeseries.csv"
 
 #### METRO AREAS
