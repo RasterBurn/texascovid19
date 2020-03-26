@@ -1,85 +1,95 @@
-County of Residence,2020-03-20,2020-03-21,2020-03-22,2020-03-23,2020-03-24,2020-03-25
-Bell,2,3,3,3,4,18
-Bexar,12,22,24,24,32,69
-Bowie,1,1,1,1,1,1
-Brazoria,3,4,12,12,18,19
-Brazos,2,2,2,2,4,16
-Cameron,1,1,6,6,6,6
-Collin,12,13,21,24,24,45
-Crane,1,1,1,1,1,1
-Dallas,22,29,30,33,34,169
-Denton,6,9,12,12,20,30
-DeWitt,1,1,1,1,1,0
-El Paso,3,8,6,6,7,11
-Ellis,2,2,3,3,5,6
-Fannin,1,1,1,1,1,1
-Fort Bend,11,11,11,11,11,46
-Galveston,4,6,9,15,15,21
-Gregg,1,1,1,1,1,1
-Harris,24,25,27,27,27,134
-Hays,4,5,6,6,6,7
-Hockley,1,2,2,3,3,3
-Johnson,2,2,2,2,2,3
-Lavaca,1,1,1,1,1,1
-Lubbock,1,2,2,2,2,12
-Matagorda,3,3,3,3,3,6
-McLennan,7,7,7,7,7,23
-Medina,1,1,1,1,1,1
-Montgomery,4,4,4,4,4,23
-Rusk,1,1,1,1,1,1
-Smith,5,5,5,5,5,14
-Tarrant,5,8,8,9,35,71
-Travis,21,22,22,22,22,98
-Webb,1,2,4,4,5,8
-Wichita,1,1,3,4,4,5
-Williamson,8,8,9,13,13,19
-Pending County Assignment,19,83,69,65,63,0
-Brown,0,1,1,1,2,2
-Castro,0,1,1,2,2,3
-Deaf Smith,0,1,1,1,2,2
-Midland,0,1,1,1,1,3
-Oldham,0,1,1,1,1,1
-Potter,0,2,2,2,2,2
-Chambers,0,0,3,1,2,1
-Comal,0,0,3,3,3,5
-Nueces,0,0,1,1,1,10
-Falls,0,0,0,1,1,1
-Hidalgo,0,0,0,2,2,2
-Parker,0,0,0,1,1,1
-Grayson,0,0,0,0,1,2
-Guadalupe,0,0,0,0,0,4
-Jefferson,0,0,0,0,0,3
-Wharton,0,0,0,0,0,3
-Atascosa,0,0,0,0,0,2
-Eastland,0,0,0,0,0,2
-Grimes,0,0,0,0,0,2
-Hardin,0,0,0,0,0,2
-Kaufman,0,0,0,0,0,2
-Kendall,0,0,0,0,0,2
-Milam,0,0,0,0,0,2
-Austin,0,0,0,0,0,1
-Bastrop,0,0,0,0,0,1
-Blanco,0,0,0,0,0,1
-Burnet,0,0,0,0,0,1
-Cass,0,0,0,0,0,1
-Coryell,0,0,0,0,0,1
-De Witt,0,0,0,0,0,1
-Erath,0,0,0,0,0,1
-Fayette,0,0,0,0,0,1
-Gaines,0,0,0,0,0,1
-Hopkins,0,0,0,0,0,1
-Hunt,0,0,0,0,0,1
-Lamar,0,0,0,0,0,1
-Liberty,0,0,0,0,0,1
-Limestone,0,0,0,0,0,1
-Llano,0,0,0,0,0,1
-Maverick,0,0,0,0,0,1
-Morris,0,0,0,0,0,1
-Orange,0,0,0,0,0,1
-Robertson,0,0,0,0,0,1
-Terry,0,0,0,0,0,1
-Tom Green,0,0,0,0,0,1
-Upshur,0,0,0,0,0,1
-Van Zandt,0,0,0,0,0,1
-Walker,0,0,0,0,0,1
-Wilson,0,0,0,0,0,1
+County of Residence,2020-03-20,2020-03-21,2020-03-22,2020-03-23,2020-03-24,2020-03-25,2020-03-26
+Bell,2,3,3,3,4,18,19
+Bexar,12,22,24,24,32,69,84
+Bowie,1,1,1,1,1,1,1
+Brazoria,3,4,12,12,18,19,33
+Brazos,2,2,2,2,4,16,21
+Cameron,1,1,6,6,6,6,7
+Collin,12,13,21,24,24,45,53
+Crane,1,1,1,1,1,1,1
+Dallas,22,29,30,33,34,169,303
+Denton,6,9,12,12,20,30,70
+DeWitt,1,1,1,1,1,0,0
+El Paso,3,8,6,6,7,11,21
+Ellis,2,2,3,3,5,6,6
+Fannin,1,1,1,1,1,1,1
+Fort Bend,11,11,11,11,11,46,54
+Galveston,4,6,9,15,15,21,27
+Gregg,1,1,1,1,1,1,3
+Harris,24,25,27,27,27,134,185
+Hays,4,5,6,6,6,7,9
+Hockley,1,2,2,3,3,3,5
+Johnson,2,2,2,2,2,3,3
+Lavaca,1,1,1,1,1,1,1
+Lubbock,1,2,2,2,2,12,19
+Matagorda,3,3,3,3,3,6,9
+McLennan,7,7,7,7,7,23,28
+Medina,1,1,1,1,1,1,1
+Montgomery,4,4,4,4,4,23,31
+Rusk,1,1,1,1,1,1,2
+Smith,5,5,5,5,5,14,16
+Tarrant,5,8,8,9,35,71,90
+Travis,21,22,22,22,22,98,119
+Webb,1,2,4,4,5,8,10
+Wichita,1,1,3,4,4,5,8
+Williamson,8,8,9,13,13,19,22
+Pending County Assignment,19,83,69,65,63,0,0
+Brown,0,1,1,1,2,2,3
+Castro,0,1,1,2,2,3,6
+Deaf Smith,0,1,1,1,2,2,2
+Midland,0,1,1,1,1,3,4
+Oldham,0,1,1,1,1,1,1
+Potter,0,2,2,2,2,2,2
+Chambers,0,0,3,1,2,1,2
+Comal,0,0,3,3,3,5,7
+Nueces,0,0,1,1,1,10,14
+Falls,0,0,0,1,1,1,1
+Hidalgo,0,0,0,2,2,2,7
+Parker,0,0,0,1,1,1,2
+Grayson,0,0,0,0,1,2,2
+Guadalupe,0,0,0,0,0,4,8
+Jefferson,0,0,0,0,0,3,7
+Wharton,0,0,0,0,0,3,3
+Atascosa,0,0,0,0,0,2,2
+Eastland,0,0,0,0,0,2,2
+Grimes,0,0,0,0,0,2,2
+Hardin,0,0,0,0,0,2,2
+Kaufman,0,0,0,0,0,2,2
+Kendall,0,0,0,0,0,2,3
+Milam,0,0,0,0,0,2,2
+Austin,0,0,0,0,0,1,1
+Bastrop,0,0,0,0,0,1,2
+Blanco,0,0,0,0,0,1,1
+Burnet,0,0,0,0,0,1,1
+Cass,0,0,0,0,0,1,1
+Coryell,0,0,0,0,0,1,1
+De Witt,0,0,0,0,0,1,2
+Erath,0,0,0,0,0,1,1
+Fayette,0,0,0,0,0,1,1
+Gaines,0,0,0,0,0,1,1
+Hopkins,0,0,0,0,0,1,1
+Hunt,0,0,0,0,0,1,1
+Lamar,0,0,0,0,0,1,1
+Liberty,0,0,0,0,0,1,1
+Limestone,0,0,0,0,0,1,1
+Llano,0,0,0,0,0,1,2
+Maverick,0,0,0,0,0,1,1
+Morris,0,0,0,0,0,1,1
+Orange,0,0,0,0,0,1,1
+Robertson,0,0,0,0,0,1,1
+Terry,0,0,0,0,0,1,3
+Tom Green,0,0,0,0,0,1,2
+Upshur,0,0,0,0,0,1,1
+Van Zandt,0,0,0,0,0,1,1
+Walker,0,0,0,0,0,1,3
+Wilson,0,0,0,0,0,1,1
+Victoria,0,0,0,0,0,0,3
+Calhoun,0,0,0,0,0,0,2
+Rockwall,0,0,0,0,0,0,2
+Angelina,0,0,0,0,0,0,1
+Jackson,0,0,0,0,0,0,1
+Karnes,0,0,0,0,0,0,1
+Martin,0,0,0,0,0,0,1
+Nacogdoches,0,0,0,0,0,0,1
+San Patricio,0,0,0,0,0,0,1
+Val Verde,0,0,0,0,0,0,1
