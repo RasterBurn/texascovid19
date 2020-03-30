@@ -1,8 +1,8 @@
-Status,2020-03-28,2020-03-29
-Hospitalized,8,8
-Hospitalized Percentage,22,22
-Deaths,1,1
-Deaths Percentage,3,3
-Recovered,7,7
-Recovered Percentage,19,19
-Total Cases,37,37
+Status,2020-03-28,2020-03-29,2020-03-30
+Hospitalized,8,8,7
+Hospitalized Percentage,22,22,17
+Deaths,1,1,1
+Deaths Percentage,3,3,2
+Recovered,7,7,7
+Recovered Percentage,19,19,17
+Total Cases,37,37,42
