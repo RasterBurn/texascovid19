@@ -4,10 +4,9 @@
 #
 #    pip-compile requirements.in
 #
-appnope==0.1.0            # via ipykernel, ipython
 attrs==19.3.0             # via jsonschema
 backcall==0.1.0           # via ipython
-bleach==3.1.3             # via nbconvert
+bleach==3.1.4             # via nbconvert
 certifi==2019.11.28       # via requests
 chardet==3.0.4            # via requests
 cycler==0.10.0            # via matplotlib
