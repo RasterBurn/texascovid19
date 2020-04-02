@@ -1,14 +1,14 @@
-Status,2020-03-28,2020-03-29,2020-03-30,2020-03-31,2020-04-01
-Hospitalized,8.0,8.0,7.0,11,13
-Hospitalized Percentage,22.0,22.0,17.0,22,24
-Deaths,1.0,1.0,1.0,1,1
-Deaths Percentage,3.0,3.0,2.0,2,2
-Recovered,7.0,7.0,7.0,12,14
-Recovered Percentage,19.0,19.0,17.0,24,25
-Total Cases,37.0,37.0,42.0,50,55
-ICU,,,,4,9
-ICU Percentage,,,,8,16
-Travel Acquired,,,,17,17
-Travel Acquired Percentage,,,,34,31
-Locally Acquired,,,,7,7
-Locally Acquired Percentage,,,,14,13
+Status,2020-03-28,2020-03-29,2020-03-30,2020-03-31,2020-04-01,2020-04-02
+Hospitalized,8.0,8.0,7.0,11,13,13
+Hospitalized Percentage,22.0,22.0,17.0,22,24,21
+Deaths,1.0,1.0,1.0,1,1,1
+Deaths Percentage,3.0,3.0,2.0,2,2,2
+Recovered,7.0,7.0,7.0,12,14,19
+Recovered Percentage,19.0,19.0,17.0,24,25,30
+Total Cases,37.0,37.0,42.0,50,55,63
+ICU,,,,4,9,9
+ICU Percentage,,,,8,16,14
+Travel Acquired,,,,17,17,21
+Travel Acquired Percentage,,,,34,31,33
+Locally Acquired,,,,7,7,0
+Locally Acquired Percentage,,,,14,13,0
