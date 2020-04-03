@@ -12,6 +12,17 @@ def get_timeseries(agg_metro=False, start_date=None):
               .tolist()]
   return df
 
+
+def get_county_timeseries(county, kind='bycity', start_date=None):
+  df = pd.read_csv(f"{DATA_PATH}/{county}/{kind}/timeseries.csv", index_col=0)
+  if start_date:
+    df = df[pd.date_range(start=start_date,
+                          end=df.columns[-1])
+              .strftime('%Y-%m-%d')
+              .tolist()]
+  return df
+
+
 def _to_metro(county):
   if county in METRO_GREATER_AUSTIN:
     return 'Greater Austin'
