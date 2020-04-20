@@ -1,0 +1,16 @@
+Status,Number of Cases
+Hospitalized,32.0
+Hospitalized Percentage,21.0
+Deaths,4.0
+Deaths Percentage,3.0
+Recovered,99.0
+Recovered Percentage,63.0
+ICU,20.0
+ICU Percentage,63.0
+Ventilator,15.0
+Ventilator Percentage,47.0
+Travel Acquired,20.0
+Travel Acquired Percentage,13.0
+Locally Acquired,132.0
+Locally Acquired Percentage,85.0
+Total Cases,156.0
