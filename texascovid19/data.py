@@ -1,8 +1,12 @@
 from .constants import *
 import pandas as pd
 
-def get_timeseries(agg_metro=False, start_date=None):
-  df = pd.read_csv(TIMESERIES_CSV, index_col=0)
+def get_timeseries(agg_metro=False, start_date=None, metric='cases'):
+  if metric == 'cases':
+    csvfile = TIMESERIES_CSV
+  elif metric == 'deaths':
+    csvfile = DEATHS_TIMESERIES_CSV
+  df = pd.read_csv(csvfile, index_col=0)
   if agg_metro:
     df = df.groupby(by=_to_metro).sum()
   if start_date:
