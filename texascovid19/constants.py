@@ -2,7 +2,7 @@ import os
 
 DATA_PATH = os.path.abspath("../data")
 DSHS_URL = "https://txdshs.maps.arcgis.com/apps/opsdashboard/index.html#/ed483ecd702b4298ab01e8b9cafc8b83"
-DSHS_XHR_URL = "https://services5.arcgis.com/ACaLB9ifngzawspq/arcgis/rest/services/COVID19County_ViewLayer/FeatureServer/0/query?f=json&where=Count_%3C%3E0&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*&orderByFields=Count_%20desc&resultOffset=0&resultRecordCount=254&cacheHint=true"
+DSHS_XHR_URL = 'https://services5.arcgis.com/ACaLB9ifngzawspq/arcgis/rest/services/DSHS_COVID19_Service/FeatureServer/0/query?f=json&where=Positive%3C%3E0&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*&orderByFields=Positive%20desc&resultOffset=0&resultRecordCount=254&resultType=standard&cacheHint=true'
 TIMESERIES_CSV = f"{DATA_PATH}/timeseries.csv"
 DEATHS_TIMESERIES_CSV = f"{DATA_PATH}/deaths_timeseries.csv"
 WILCO_URL = "http://www.wcchd.org/COVID-19/covid-19_case_breakdown.php"
