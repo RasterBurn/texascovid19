@@ -1,0 +1,22 @@
+Status,Number of Cases
+Current_Hospitalized,17
+Current_Hospitalized_Percentag,3.0
+Hospitalized,75
+Hospitalized Percentage,15.0
+Deaths,19
+Deaths Percentage,4.0
+Recovered,268
+Recovered Percentage,55.0
+ICU,40
+ICU Percentage,53.0
+Current_ICU,5
+Current_ICU_Percentage,29.0
+Ventilator,22
+Ventilator Percentage,29.0
+Current_Vent,3
+Current_Vent_Percentage,18.0
+Total Cases,486
+Open_Cases,199
+Percent_ICU_Beds_Used,
+Percent_Vent_Used,59
+Percent_Hospital_Beds_Used,57
